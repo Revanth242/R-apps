@@ -1,5 +1,5 @@
 # My App Name
-A mobile application built with **Kodular** featuring an integrated QR/Barcode scanner and a custom **GitHub-based OTA (Over-The-Air) update system**.
+A mobile application featuring an integrated QR/Barcode scanner and a custom **GitHub-based OTA (Over-The-Air) update system**.
 
 ### 🚀 Features
 * **Real-time Scanning**: Efficiently scan and process data using the integrated scanner module.
