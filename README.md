@@ -1,5 +1,5 @@
 
-#RScanner
+##RScanner
 
 A mobile application featuring an integrated QR/Barcode scanner and a custom **GitHub-based OTA (Over-The-Air) update system**.
 
